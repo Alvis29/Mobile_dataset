@@ -1,2 +1,2 @@
 # Mobile_dataset
-how to implement machine learning model.
+how to implement a machine learning model.
