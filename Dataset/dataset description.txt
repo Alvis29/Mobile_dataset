@@ -1,0 +1,28 @@
+1. Title: Mobile _dataset (with Marketing context)
+
+2. Relevant Information:
+	mobile dataset consist the specication of mobile along with the cost . In the mobile dataset we have  2000 instances and 15 features. This tabular dataset consists  features like battery power, front camera specs, ram, talk time , internal memory, etc
+
+3. Number of Instances: 2000 for Mobile_data.csv
+
+4. Number of Attributes: 15 output attribute.
+
+5. Attribute information:
+
+   Input variables:
+   
+Feature 0: battery_power - Battery power of a mobile device (integer)
+Feature 1: clock_speed - Clock speed of a mobile device (float)
+Feature 2: fc - Front camera megapixels of a mobile device (integer)
+Feature 3: int_memory - Internal memory (RAM) of a mobile device in gigabytes (integer)
+Feature 4: m_dep - Mobile depth in cm (float)
+Feature 5: mobile_wt - Weight of a mobile device (integer)
+Feature 6: n_cores - Number of cores of the processor in a mobile device (integer)
+Feature 7: pc - Primary camera megapixels of a mobile device (integer)
+Feature 8: px_height - Pixel resolution height of the mobile device's display (integer)
+Feature 9: px_width - Pixel resolution width of the mobile device's display (integer)
+Feature 10: ram - RAM capacity of a mobile device in megabytes (integer)
+Feature 11: sc_h - Screen height of a mobile device in cm (integer)
+Feature 12: sc_w - Screen width of a mobile device in cm (integer)
+Feature 13: talk_time - Battery talk time of a mobile device in hours (integer)
+Feature 14: price_range - Price range of a mobile device (integer) 
